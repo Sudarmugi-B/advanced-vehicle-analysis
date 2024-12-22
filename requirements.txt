@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+numpy
+sqlite3
+torch
+ultralytics
+easyocr
+pandas
+plotly
